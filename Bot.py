@@ -41,8 +41,8 @@ async def start(event):
         link_preview=False,
         buttons=[
             [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/Branded_MentionBot?startgroup=true")],
-            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/BRANDED_WORLD"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/BRANDRD_BOT")],
-            [Button.url("❤️‍🔥 ʜᴇʀᴜᴋᴏ ᴄᴄ 💫", "https://t.me/BRANDED_PAID_CC"), Button.url("❤️‍🔥 BRANDED ❤️‍🔥", "https://t.me/BRANDEDKING82")]
+            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/Quiz2xf"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/ARTIST_i_NETWORK")],
+            [Button.url("❤️‍🔥 🆄𝐍𝐄𝐗 🅽𝐄𝐓𝐖𝐎𝐑𝐊 💫", "https://t.me/LINKS_CHANNELL"), Button.url("❤️‍🔥 🆁︎𝐈𝐘𝐔  ❤️‍🔥", "https://t.me/MISS_LOVE_ANGEL01")]
         ]
     )
 
@@ -58,8 +58,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/BRANDED_WORLD"),
-                Button.url("❤️‍🔥 ʏᴏᴜᴛᴜʙᴇ 💫", "https://youtube.com/@TrickyBranded?si=LiWu6DkLNs4bcZn6"),
+                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/Quiz2xf"),
+                Button.url("❤️‍🔥 🆄𝐍𝐄𝐗 🅽𝐄𝐓𝐖𝐎𝐑𝐊 💫", "https://t.me/LINKS_CHANNELL"),
             ]
         ),
     )
@@ -76,8 +76,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/BRANDED_WORLD"),
-                Button.url("❤️‍🔥 ʏᴏᴜᴛᴜʙᴇ 💫", "https://youtube.com/TrickyBranded"),
+                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/Quiz2xf"),
+                Button.url("❤️‍🔥 🆄𝐍𝐄𝐗 🅽𝐄𝐓𝐖𝐎𝐑𝐊 💫", "https://t.me/LINKS_CHANNELL"),
             ]
         ),
     )
@@ -216,7 +216,7 @@ async def cancel_spam(event):
         return await event.respond("sᴛᴏᴘᴘᴇᴅ.")
 
 
-print(">> ʙʀᴀɴᴅᴇᴅ ᴍᴇɴᴛɪᴏɴ BOT WORKING <<")
+print(">> 🆁︎𝐈𝐘𝐔 𝐌𝐄𝐍𝐓𝐈𝐎𝐍 BOT WORKING <<")
 client.run_until_disconnected()
 
 
