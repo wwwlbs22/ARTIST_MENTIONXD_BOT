@@ -37,7 +37,7 @@ async def start(event):
     await event.client.send_file(
         event.chat_id,
         file="https://te.legra.ph/file/c51f9d5400b4d1e2dce09.jpg",
-        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ʙʀᴀɴᴅᴇᴅ ʙᴏᴛ](https://t.me/BRANDRD_BOT)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ʙʀᴀɴᴅᴇᴅ ʜᴇʟᴘ](https://t.me/BRANDED_WORLD)┓\n┣★ ʀᴇᴘᴏ › : [ʙʀᴀɴᴅᴇᴅ ʀᴇᴘᴏ](https://github.com/WCGKING/BrandedXMention)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/BRANDEDKING82) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [🆁︎𝐈𝐘𝐔 🅼︎𝐄𝐍𝐓𝐈𝐎𝐍](https://t.me/RIYU_MENTION_BOT)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [🆁︎𝐈𝐘𝐔](https://t.me/Quiz2xf)┓\n┣★ ʀᴇᴘᴏ › : [🆄𝐍𝐄𝐗 ʀᴇᴘᴏ](https://github.com/wwwlbs22/ARTIST_MENTIONXD_BOT)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/JAYSHRI_RAM_JAYSHRI_RAM) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
             [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/Branded_MentionBot?startgroup=true")],
