@@ -1,4 +1,4 @@
-<h1 align="center"><b> ─「 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗠𝗘𝗡𝗧𝗜𝗢𝗡 」─ </b></h1>
+<h1 align="center"><b> ─「 𝐑𝐈𝐘𝐔 𝐌𝐄𝐍𝐓𝐈𝐎𝐍 」─ </b></h1>
 
 <h4 align="center">BRANDED MENTION A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
 
@@ -33,7 +33,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
   </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/BrandedXMention"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/wwwlbs22/ARTIST_MENTIONXD_BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 > ❤️‍🔥 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝗼 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 𝗕𝗿𝗮𝗻𝗱𝗲𝗱𝗠𝗲𝗻𝘁𝗶𝗼𝗻, 𝗧𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗴𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗽𝗹𝗲𝗮𝘀𝘂𝗿𝗲 𝘄𝗲 𝗵𝗮𝘃𝗲 !
 
