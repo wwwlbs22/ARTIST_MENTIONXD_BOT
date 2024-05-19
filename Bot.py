@@ -37,12 +37,12 @@ async def start(event):
     await event.client.send_file(
         event.chat_id,
         file="https://telegra.ph/file/d6b7c961b247da762577f.jpg",
-        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [🆁︎𝐈𝐘𝐔 🅼︎𝐄𝐍𝐓𝐈𝐎𝐍](https://t.me/RIYU_MENTION_BOT)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [🆁︎𝐈𝐘𝐔](https://t.me/Quiz2xf)┓\n┣★ ʀᴇᴘᴏ › : [🆄𝐍𝐄𝐗 ʀᴇᴘᴏ](https://github.com/wwwlbs22/ARTIST_MENTIONXD_BOT)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/ARTIST_i_NETWORK) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [🆁︎𝐈𝐘𝐔 🅼︎𝐄𝐍𝐓𝐈𝐎𝐍](https://t.me/ARTIST_i_NETWORK)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [🆁︎𝐈𝐘𝐔](https://t.me/Quiz2xf)┓\n┣★ ʀᴇᴘᴏ › : [🆄𝐍𝐄𝐗 ʀᴇᴘᴏ](https://github.com/wwwlbs22/ARTIST_MENTIONXD_BOT)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/ARTIST_i_NETWORK) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
             [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/Branded_MentionBot?startgroup=true")],
             [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/Quiz2xf"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/ARTIST_i_NETWORK")],
-            [Button.url("❤️‍🔥 🆄𝐍𝐄𝐗 🅽𝐄𝐓𝐖𝐎𝐑𝐊 💫", "https://t.me/LINKS_CHANNELL"), Button.url("❤️‍🔥 🆁︎𝐈𝐘𝐔  ❤️‍🔥", "https://t.me/MISS_LOVE_ANGEL01")]
+            [Button.url("❤️‍🔥 🆄𝐍𝐄𝐗  💫", "https://t.me/LINKS_CHANNELL"), Button.url("❤️‍🔥 🆁︎𝐈𝐘𝐔  ❤️‍🔥", "https://t.me/MISS_LOVE_ANGEL01")]
         ]
     )
 
@@ -59,7 +59,7 @@ async def help(event):
         buttons=(
             [
                 Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/Quiz2xf"),
-                Button.url("❤️‍🔥 🆄𝐍𝐄𝐗 🅽𝐄𝐓𝐖𝐎𝐑𝐊 💫", "https://t.me/LINKS_CHANNELL"),
+                Button.url("❤️‍🔥 🆄𝐍𝐄𝐗  💫", "https://t.me/LINKS_CHANNELL"),
             ]
         ),
     )
@@ -77,7 +77,7 @@ async def help(event):
         buttons=(
             [
                 Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/Quiz2xf"),
-                Button.url("❤️‍🔥 🆄𝐍𝐄𝐗 🅽𝐄𝐓𝐖𝐎𝐑𝐊 💫", "https://t.me/LINKS_CHANNELL"),
+                Button.url("❤️‍🔥 🆄𝐍𝐄𝐗  💫", "https://t.me/LINKS_CHANNELL"),
             ]
         ),
     )
